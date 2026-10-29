@@ -1,0 +1,5 @@
+build/
+cmake-build-*/
+.vscode/
+compile_commands.json
+chat_server
